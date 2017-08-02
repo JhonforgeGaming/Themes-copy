@@ -3,32 +3,18 @@
 {} 
 
 /* Backgrounds */
-/* .app {
+.app {
     background-image: url("https://i.imgur.com/2bBq3l0.jpg") !important;
     background-size: 1500px 900px !important;
     background-repeat: no-repeat !important;
 }
- Just change the link to whatever picture, including the `s` in `https` 
+/* Just change the link to whatever picture, including the `s` in `https` */
 
 .callout-backdrop {
     opacity:0.9 !important;
     background: url("https://i.imgur.com/2bBq3l0.jpg") !important;
     background-size: 1500px 900px !important;
     background-repeat: no-repeat !important;
-} */
-.app,
-.callout-backdrop {
-    background-image: url("https://i.imgur.com/2bBq3l0.jpg");
-    background-size: cover !important;
-    background-position: center !important;
-}
-.bda-backdrop {
-    background: url("https://i.imgur.com/2bBq3l0.jpg");
-    background-size: cover!important;
-}
-#pubs-container:before {
-	background: url("https://i.imgur.com/2bBq3l0.jpg")!important;
-    background-size: cover!important;
 }
 .layers,
 .layer,
